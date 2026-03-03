@@ -129,7 +129,6 @@ El sistema utiliza **4 tablas** relacionadas entre sí:
 
 | Nombre       | Rol principal           | Usuario GitHub |
 |--------------|-------------------------|----------------|
-| [Nombre 1]   | Líder / Backend         | @[usuario]     |
-| [Nombre 2]   | Frontend Lead           | @[usuario]     |
-| [Nombre 3]   | Backend / Base de datos | @[usuario]     |
-| [Nombre 4]   | QA / Documentación      | @[usuario]     |
+| Darwin       | Líder / Backend         | DARWINFLOREZ10 |
+| Samuel       | Frontend Lead           | Manin611       |
+| Anderson     | Backend / Base de datos | anderson0188   |
